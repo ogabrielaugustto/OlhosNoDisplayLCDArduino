@@ -16,4 +16,4 @@ Então dentro destas 8 (caracteres) fiz um olho usando apenas 6 espaços de cara
 
 E então, dupliquei apenas o carácter e centralizei.
 
-Desta forma fazendo dois olhos no meio do display LCD. 
+Desta forma fazendo dois olhos no meio do display LCD. :)
